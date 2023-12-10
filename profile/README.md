@@ -1,5 +1,11 @@
 # Multipurpose Online Coding Assessment Platform (MOCAP): Improving Coding and Marking Experience
 
-At the beginning of each course, students are required to spend a considerable amount of time setting up the coding environment on their local machines. Additionally, students need to upload their files to hand-in assignment, and professors need to download the files and run on their machines. Sometimes, students’ program may success in students’ environment but fails in teacher’s environment. This might cause more dispute and time waste.
+> [!NOTE]
+> This project will be open-sourced in May, 2024.
 
-Our project aims to solve these problems by creating a web-based platform. By doing so, we hope that it could be an all-in-one platform that can be used to facilitate better and easier learning process for students.
+## Background
+At the start of each course, computer science students need to set up a coding environment on their local machines. It poses challenges for students due to discrepancies in libraries, dependencies, operating systems, and hardware. These differences can lead to problems when running assignments in markers' environments, resulting in disputes between students and professors. To address this issue, we propose the Multipurpose Online Coding Assessment Platform (MOCAP), a centralized web platform aimed at simplifying the setup of coding environments and ensuring replicability and consistency with markers' environments.
+
+## Deliverables
+MOCAP offers a pre-configured coding environment accessible through the web platform, eliminating the need for individual local machine configurations. MOCAP includes an Integrated Development Environment (IDE) with features such as code completion and syntax highlighting, enhancing the coding experience and productivity. MOCAP also offers customized test cases for students to validate their code against the professor’s code to ensure code accuracy. In addition, MOCAP offers a question bank feature where past exercises can be stored. This resource provides students with a convenient way to access and practice previous assignments, helping them prepare for midterms and finals.
+
