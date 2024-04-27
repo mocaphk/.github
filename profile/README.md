@@ -2,7 +2,7 @@
 
 ## What is MOCAP
 
-![MOCAP demo](../.github/assets/demo.gif)
+![MOCAP demo](https://github.com/mocaphk/.github/blob/main/.github/assets/demo.gif?raw=true)
 
 Multipurpose Online Coding Assessment Platform (MOCAP) is a web-based platform that aims to eliminate the need for students to individually configure their coding environments when completing course coding assignments.
 
