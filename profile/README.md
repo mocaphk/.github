@@ -10,6 +10,16 @@ To complete course coding assignments, students need to set up a coding environm
 
 To address this problem, MOCAP provides a solution by hosting a web platform that offers a customizable coding environment using Docker. Docker ensures environment consistency and replicability, thereby eliminating the problems arising from discrepancies in libraries, dependencies, and operating systems.
 
+## Repository
+
+| Repository                                                                | Description                                                                                          |
+|---------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| [`mocap-frontend`](https://github.com/mocaphk/mocap-frontend)             | The frontend of MOCAP. Created with TypeScript, React, Next.js 13, Tailwind CSS and GraphQL.         |
+| [`mocap-backend`](https://github.com/mocaphk/mocap-backend)               | The backend of MOCAP. Created with Spring Boot and GraphQL.                                          |
+| [`mocap-keycloak`](https://github.com/mocaphk/mocap-keycloak)             | Identity and access management (IAM) system for MOCAP. Created with Keycloak, Typescript, and React. |
+| [`mocap-schema`](https://github.com/mocaphk/mocap-schema)                 | Contains all GraphQL schema of MOCAP.                                                                |
+| [`mocap-docker-compose`](https://github.com/mocaphk/mocap-docker-compose) | A docker compose repository for creating frontend, backend, Keycloak, database, and NGINX for MOCAP. |
+
 ## Technologies Used
 
 <div align="left">
